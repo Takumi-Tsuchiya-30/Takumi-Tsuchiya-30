@@ -1,0 +1,45 @@
+body {
+  background-color: #4699ca;
+}
+
+.btnLearnClass {
+  font-size: 50px;
+  padding: 10px 30px;
+  margin-left: 200px;
+  margin-top: 10px;
+}
+
+.btnTaskClass {
+  font-size: 50px;
+  padding: 10px 30px;
+  margin-left: 200px;
+  /* margin-top: 200px; */
+}
+
+.btnThankClass {
+  font-size: 50px;
+  padding: 10px 30px;
+  margin-left: 200px;
+}
+
+#bluebox {
+  width: 1200px;
+  font-size: 35px;
+  background-color: #eaf6fd;
+  margin: auto;
+}
+
+#redbox {
+  width: 1200px;
+  font-size: 35px;
+  background-color: #eaf6fd;
+  padding: 0px 10px;
+  margin: auto;
+}
+
+#blackbox {
+  width: 1200px;
+  font-size: 35px;
+  background-color: #eaf6fd;
+  margin: auto;
+}
